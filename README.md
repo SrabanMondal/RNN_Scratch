@@ -1,1 +1,2 @@
 # RNN_Scratch
+<b>Single-Layer RNN with Dynamic Weights</b> – Built a single-layer Recurrent Neural Network (RNN) from scratch, implementing dynamic weights to improve the learning process. Incorporated Backpropagation Through Time (BPTT) for efficient training, enabling the model to capture temporal dependencies and learn from sequential data. This project demonstrates a fundamental understanding of RNNs, weight updating, and gradient propagation in time-series prediction tasks.
